@@ -26,8 +26,10 @@ This project demonstrates the use of TensorFlow and Keras Tuner for image classi
 
 ## Dataset
 
-- The dataset contains 14,034 images belonging to 6 different classes for training and 3,000 images for validation.
+- The dataset used in this project is from Kaggle: [Intel Image Classification Dataset](https://www.kaggle.com/datasets/puneet6060/intel-image-classification).
+- It contains 14,034 images belonging to 6 different classes for training and 3,000 images for validation.
 - Images are loaded and processed accordingly before feeding them into the model.
+
 
 ## Model Summary
 
